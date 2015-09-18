@@ -1,0 +1,82 @@
+body {
+  text-align: center;
+}
+
+.navbar-nav li a {
+  font-size: 1.3em;
+}
+
+img {
+  width: 100%;
+  height: 300px;
+}
+
+.fa-globe:before {
+  font-size: 1.5em;
+}
+
+.globe {
+  color: RGB(111,165,205);
+}
+
+.jumbotron {
+  background-image: url("antarctica.jpg");
+  min-height: 600px;
+  background-size: cover;
+}
+
+#h1 {
+  color:  RGB(111,165,205);
+  font-family: 'Francois One', sans-serif;
+  }
+
+.container {
+  padding-top: 10%;
+  }
+
+.jumbotron p {
+  padding-top: 2%;
+}
+
+.navbar-default {
+  margin: 0;
+}
+
+h1 {
+  padding: 1%;
+  font-family: 'Francois One', sans-serif;
+}
+
+h4 {
+  font-family: 'Francois One', sans-serif;
+}
+
+.social {
+  list-style-type: none;
+  font-size: 1.5em;
+  padding-top: 3%;
+  font-family: 'Neuton', serif;
+}
+
+.navbar-right {
+  font-family: 'Neuton', serif;
+}
+
+.socialicon {
+  display: inline-block;
+  font-size: 1.2em;
+  padding-top: 1%;
+  padding: 1%
+}
+
+.twitter {
+  color: #68D3F7;
+}
+
+.facebook {
+  color: #1A3FE8;
+}
+
+.advisor {
+  color: green;
+}
